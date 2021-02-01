@@ -1,0 +1,14 @@
+[
+  {
+    "label": "CBS (Channel 8.1)",
+    "url": "http://localhost:57000/api/play/channel/8.1"
+  },
+  {
+    "label": "PBS (Channel 11.1)",
+    "url": "http://localhost:57000/api/play/channel/11.1"
+  },
+  {
+    "label": "Fox Sports Midwest",
+    "url": "http://localhost:57000/api/play/channel/6206"
+  }
+]
